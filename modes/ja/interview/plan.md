@@ -134,19 +134,19 @@ Block 7 — Buffer + rest
 ```markdown
 ## 15-Minute Pre-Interview Review
 
-**Your anchor sentence:** [one sentence that captures why you're right for this role]
+**Your anchor sentence:** [この役割に自分が適している理由を一文で表したもの]
 
 **Top 3 things to remember:**
-1. [most important message to leave the interviewer with]
-2. [most likely question and your first sentence of the answer]
-3. [the connection between your history and their domain]
+1. [面接官に最も残したいメッセージ]
+2. [最も聞かれそうな質問と、その回答の書き出し一文]
+3. [自分の経歴と相手の事業領域とのつながり]
 
-**Compensation — already discussed:** [only if `--stated-for` returned prior observations] "You stated {amount} {currency} to {interviewer} on {date} in {round}. Stay consistent unless something material changed." Omit this block entirely if there are no prior `stated` observations for this tracker# — don't invent a number that was never said.
+**Compensation — already discussed:** [`--stated-for` が過去の観測を返した場合のみ] 「{date} の {round} で {interviewer} に対して {amount} {currency} と伝えています。重要な変更がない限り、同じ内容で通してください。」この tracker# について過去の `stated` 観測が 1 件もない場合は、このブロックごと省略する — 一度も口にしていない数字をでっち上げてはいけない。
 
 **Your questions to ask:**
-1. [question 1]
-2. [question 2]
-3. [question 3]
+1. [質問 1]
+2. [質問 2]
+3. [質問 3]
 ```
 
 ---
