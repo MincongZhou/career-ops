@@ -86,41 +86,41 @@ CV と JD を読む。2 列の評価を出す：
 **テンプレート（使える総時間に応じてブロックの大きさを調整）：**
 
 ```
-Block 1 — Lock your narrative (first, always)
-  - Write out your background timeline explicitly
-  - Prepare "why this company" with a specific connection to your history
-  - Prepare your strongest proof point story (30-second version)
-  - Time: ~15% of available hours
+Block 1 — 自分のナラティブを固める（最初に、必ず）
+  - 職務経歴のタイムラインを明示的に書き出す
+  - 「なぜこの会社か」に、自分の経歴との具体的な接点を用意する
+  - 最強の proof point ストーリー（30 秒版）を準備する
+  - 時間：使える時間の約 15%
 
-Block 2 — Priority domain topic (highest-risk gap first)
-  - One topic per block — don't mix
-  - For each: concept → your story hook → likely follow-up questions
-  - Time: ~25% of available hours
+Block 2 — 優先度の高い領域トピック（リスクの最も高いギャップから）
+  - 1 ブロックにつき 1 トピック — 混ぜない
+  - 各トピックについて：概念 → 自分のストーリーのフック → 想定される追加質問
+  - 時間：使える時間の約 25%
 
-Block 3 — Secondary domain topic
-  - Second-highest-risk gap
-  - Time: ~20% of available hours
+Block 3 — 次点の領域トピック
+  - リスクが 2 番目に高いギャップ
+  - 時間：使える時間の約 20%
 
-Block 4 — Behavioral stories
-  - Map existing stories to likely question types — sourced ones from the Research Check above first, `[inferred from JD]` ones filling any remaining gaps
-  - Practice the 2-minute verbal version of each
-  - Prepare the Reflection for each — the senior-candidate differentiator
-  - Time: ~15% of available hours
+Block 4 — 行動面のストーリー
+  - 既存のストーリーを想定される質問タイプに対応づける — まず上の Research Check で出典が確認できたものを使い、残ったギャップは `[inferred from JD]`（JD からの推測）で埋める
+  - 各ストーリーの 2 分間の口頭版を練習する
+  - 各ストーリーの Reflection を準備する — シニア候補者の差別化要因
+  - 時間：使える時間の約 15%
 
-Block 5 — Company research
-  - Product pages relevant to the role
-  - Connection between your history and their specific domain
-  - 3–4 sharp questions to ask them
-  - Time: ~10% of available hours
+Block 5 — 企業リサーチ
+  - その職種に関連するプロダクトページ
+  - 自分の経歴と、相手の具体的な事業領域とのつながり
+  - 相手に投げる鋭い質問 3〜4 本
+  - 時間：使える時間の約 10%
 
-Block 6 — Practice run (if time permits)
-  - One question per likely topic — out loud, timed
-  - Time: ~10% of available hours
+Block 6 — 通し練習（時間が許せば）
+  - 想定トピックごとに 1 問 — 声に出して、時間を計って
+  - 時間：使える時間の約 10%
 
-Block 7 — Buffer + rest
-  - Stop studying 60–90 minutes before the interview
-  - Cramming in the last hour adds noise, not signal
-  - Time: remaining
+Block 7 — バッファ + 休息
+  - 面接の 60〜90 分前には学習を止める
+  - 最後の 1 時間に詰め込んでも、有益なシグナルではなくノイズが増えるだけ
+  - 時間：残りすべて
 ```
 
 ギャップの深刻度とラウンド種別に応じてブロックの大きさを調整する。screening であれば、Block 4（行動面）と Block 5（企業リサーチ）は、領域の深掘りブロックよりも重要である。

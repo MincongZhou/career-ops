@@ -83,11 +83,11 @@
 各質問について、次を出す：
 
 ```markdown
-**Q: [question]**
-- What was said: [summary of their answer]
-- What landed: [what was good — be specific]
-- What was missing: [gap — precise technical term, missing result, no reflection, etc.]
-- Correct/complete answer: [what the full answer should include]
+**Q: [質問]**
+- What was said: [回答の要約]
+- What landed: [よかった点 — 具体的に]
+- What was missing: [ギャップ — 正確な技術用語の欠落、成果の未記載、Reflection がない、など]
+- Correct/complete answer: [完全な回答に含めるべき内容]
 - Status: ✅ Strong / 🟡 Solid / 🔴 Gap
 ```
 
@@ -165,26 +165,26 @@
 ```markdown
 ## Round [N] Debrief — [YYYY-MM-DD]
 
-**Interviewer:** [name, role]
+**Interviewer:** [氏名、役割]
 **Round type:** [screening / technical / design-case-study / behavioral]
 **Outcome:** [pending / moved forward / rejected]
 
 ### Questions Asked
-[list]
+[一覧]
 
 ### Gaps Identified
-[list with correct answers]
+[正しい回答とともに一覧]
 
 ### Next Round
-**Format:** [if known]
-**Interviewers:** [if known]
-**Priority prep:** [top 3 topics to close before next round]
+**Format:** [判明していれば]
+**Interviewers:** [判明していれば]
+**Priority prep:** [次ラウンドまでに埋めるべき優先トピック 3 つ]
 
 ### Process Intel (recruiter / HM screens — omit if not applicable)
-**Comp discussed:** [yes / no — if yes, what was said and what was anchored]
-**Timeline:** [any dates or deadlines mentioned]
-**Other candidates:** [if disclosed]
-**Next steps:** [what the interviewer said happens next and by when]
+**Comp discussed:** [yes / no — yes の場合、何が話され、何に落ち着いたか]
+**Timeline:** [言及された日程や締め切り]
+**Other candidates:** [開示されていれば]
+**Next steps:** [面接官が、次に何がいつ起きると述べたか]
 ```
 
 **このラウンドで報酬の数字を口頭で述べた場合**（候補者が具体的な額を出した場合であり、単に「報酬の話が出た」だけではない場合）、`data/salary-observations.tsv` に `stated` 行を 1 行追記する（ファイルがなければ作成する。書式は `docs/SCRIPTS.md` → salary-gap を参照）。記載するのは、tracker#、このラウンドの日付、金額と通貨、source `user`、短いメモ、ラウンドのラベル、面接官の氏名。これがあることで `interview/plan` が次ラウンドの前に候補者へ想起させられる — 同ファイルの Inputs #9 を参照。
@@ -201,18 +201,18 @@
 
 ```markdown
 ---
-company: [company]
-role: [role]
+company: [会社名]
+role: [職種]
 round: [screen | hiring-manager | technical | system-design | behavioral | onsite | final]
 date: YYYY-MM-DD
-interviewer_role: [role, if known]
+interviewer_role: [役割（判明していれば）]
 source: debrief
 ---
 
 ## Q1
-**Interviewer:** [question as asked]
+**Interviewer:** [聞かれたとおりの質問]
 <!-- competency: tag[, tag...] -->
-**Candidate:** [answer as delivered / reconstructed in this debrief]
+**Candidate:** [実際に答えた内容／このデブリーフで再構成した内容]
 
 ## Q2
 ...

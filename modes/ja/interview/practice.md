@@ -66,15 +66,15 @@
 
 ```markdown
 **What landed:**
-- [specific thing that worked — quote their words if possible]
-- [another strength]
+- [うまく機能した具体的な点 — 可能なら相手の言葉を引用する]
+- [もう 1 つの強み]
 
 **What to sharpen:**
-- [specific gap — what was missing or imprecise]
-- [vocabulary or framing to improve]
+- [具体的なギャップ — 何が欠けていたか、どこが不正確だったか]
+- [改善すべき語彙や言い回し]
 
 **The stronger version:**
-> "[One or two sentences showing how the answer could have opened or closed more effectively]"
+> 「[この回答をより効果的に始める／締めるにはどうすればよかったかを示す 1〜2 文]」
 
 **Status update:** [✅ Strong / 🟡 Solid / 🔴 Gap]
 ```
@@ -118,15 +118,15 @@
 **Questions covered:** [N]
 
 **Ready:**
-- [question] — [one-line note on why it's strong]
+- [質問] — [なぜ強いと言えるかの一行メモ]
 
 **Needs work before interview:**
-- [question] — [specific gap to close]
+- [質問] — [埋めるべき具体的なギャップ]
 
 **Vocabulary to fix:**
-- "[what they said]" → "[correct term]"
+- 「[言ってしまった表現]」→「[正しい用語]」
 
-**Overall read:** [one honest sentence on interview readiness]
+**Overall read:** [面接準備の状況についての、正直な一文]
 ```
 
 ---
@@ -139,18 +139,18 @@
 
 ```markdown
 ---
-company: [company, or "practice"]
-role: [role]
+company: [会社名、または "practice"]
+role: [職種]
 round: [screen | hiring-manager | technical | system-design | behavioral | onsite | final]
 date: YYYY-MM-DD
-interviewer_role: [persona role, if set]
+interviewer_role: [ペルソナの役割（設定していれば）]
 source: practice
 ---
 
 ## Q1
-**Interviewer:** [the question you asked]
+**Interviewer:** [自分が投げた質問]
 <!-- competency: tag[, tag...] -->
-**Candidate:** [the candidate's answer, verbatim]
+**Candidate:** [候補者の回答をそのまま記載]
 
 ## Q2
 ...
